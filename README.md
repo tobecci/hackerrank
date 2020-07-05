@@ -1,8 +1,3 @@
-# hackerrank
+# strange-keyboard
 
-## Description
-this repo contains the solution to some challenges i took on hackerrank
-
-## contents
-each challenge will be on its own appropriately named branch
-
+challege details at [hackerrank](https://www.hackerrank.com/contests/hack-the-interview-v-asia-pacific/challenges/strange-keyboard-1/problem)
